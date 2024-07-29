@@ -14,16 +14,15 @@ The BMI Calculator is a React-based web application that allows users to calcula
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
-    <code>git clone https://github.com/yourusername/bmi-calculator.git<code>
-2. **Navigate to the project directory:**
-   <code>cd bmi-calculator/bmi<code>
-3. **Install the dependencies:**
-    <code>npm install<code>
+**Clone the repository:**<code>git clone https://github.com/yourusername/bmi-calculator.git<code>
+
+**Navigate to the project directory:**<code>cd bmi-calculator/bmi<code>
+
+**Install the dependencies:**<code>npm install<code>
 
 ## Usage
 
-To start the application, use the following command:\
+To start the application, use the following command:
 
 <code>npm start<code>
 
