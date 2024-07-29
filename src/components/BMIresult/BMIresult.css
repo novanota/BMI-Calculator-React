@@ -1,0 +1,16 @@
+.bmi-result {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bmi-result-label {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.bmi-result-number {
+    font-size: 24px;
+    font-weight: 600;
+}
